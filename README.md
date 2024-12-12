@@ -53,7 +53,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p> For the last step before installing our OSticket, we need to install a database. 
-<img src=" https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
+<img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
