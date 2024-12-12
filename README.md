@@ -52,7 +52,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Rewrite%20Module.png"/>
 <br />
 
-<p>
+<p> For the last step before installing our OSticket, we need to install a database. 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
