@@ -31,11 +31,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p> Create an Azure virtual machine, Windows 10, with 4 VCPUs. 
-
+</p>
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Creating%20Vitrual%20Machine.png"/>
 
 </p> Using the public IP address from your VM, remote into it using Microsoft Remote Desktop.
-
+<p>
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Loggin%20in%20to%20vm.png"/>
 </p>
 <br />
