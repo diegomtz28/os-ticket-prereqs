@@ -49,7 +49,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Installing%20PHP.png"/>
 
 <p>After PHP, we can now install the Rewrite Module</p>
-<img src="<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Installing%20PHP.png"/>"/>
+<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Rewrite%20Module.png"/>
 <br />
 
 <p>
