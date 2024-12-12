@@ -46,7 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/enabling%20iis.png"/>
 </p>
 <p> After enabling IIS, we can now install PHP. 
-<img src=""/>
+<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Installing%20PHP.png"/>
 
 <br />
 
