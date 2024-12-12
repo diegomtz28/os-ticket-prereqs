@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p> Once you're in we can go ahead and install/enable IIS in Windows with CGI.
 
-  - World Wide Web Services -> Application Development Features -> CGI
+  - Internet Information Service -> World Wide Web Services -> Application Development Features -> CGI
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/enabling%20iis.png"/>
 </p>
 <p>
