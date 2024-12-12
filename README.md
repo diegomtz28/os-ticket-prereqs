@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="file:///Users/diegomartinez/Library/Mobile%20Documents/com~apple~Preview/Documents/Creating%20Vitrual%20Machine.png/>
+<img src="file:///Users/diegomartinez/Library/Mobile%20Documents/com~apple~Preview/Documents/Creating%20Vitrual%20Machine.png"/>
 </p>
 <p>Create an Azure virtual machine, Windows 10, with 4 VCPUs. Then proceed to log in using Remote Desktop. 
 </p>
