@@ -56,7 +56,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
 </p> Now we can install Osticket and be able to use it. 
 <img src= "<img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
-<p>
+<p> For the last and final step we restart IIS and we can now access our ticketing system. 
+  Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
