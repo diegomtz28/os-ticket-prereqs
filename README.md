@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Internet Information Service -> World Wide Web Services -> Application Development Features -> CGI
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/enabling%20iis.png"/>
 </p>
-<p> Now we can go ahead and install IIS. 
+<p> After enabling IIS, we can now install PHP. 
 <img src=""/>
 
 <br />
