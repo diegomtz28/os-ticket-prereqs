@@ -30,10 +30,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
+<p> Create an Azure virtual machine, Windows 10, with 4 VCPUs. Then proceed to log in using Remote Desktop.
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Creating%20Vitrual%20Machine.png"/>
 </p>
-<p>Create an Azure virtual machine, Windows 10, with 4 VCPUs. Then proceed to log in using Remote Desktop. 
+<p>
 </p>
 <br />
 
