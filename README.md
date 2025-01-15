@@ -51,7 +51,13 @@ __Step 3: Install Rewrite Module__
 - Download and install the __URL Rewrite Module__ from the IIS website to enable URL rewriting in OS-Ticket
 
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Rewrite%20Module.png"/>
-<p> Once you're in we can go ahead and install/enable IIS in Windows with CGI.
+
+__Step 4:__ Set UP MySQL workbench or phpMyAdmin to create a new database. 
+- Create a new __MySQL Workbench__ or --phpMyAdmin to create a new database
+- Use my __SQL Workbench __phpMyAdmin__ to create a new database 
+- Create a user with permissions for the OS-Ticket database
+
+
 
   - Internet Information Service -> World Wide Web Services -> Application Development Features -> CGI
 
