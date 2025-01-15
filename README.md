@@ -44,14 +44,14 @@ __Step 2:__ Install PHP Manager and Configure PHP
 - Download and install PHP Manager for IIS.
 - Set PHP to a recommended version and enable required extensions using PHP Manager.
 
-
+<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Installing%20PHP.png"/>
 
 __Step 3: Install Rewrite Module __
 
 <p> Once you're in we can go ahead and install/enable IIS in Windows with CGI.
 
   - Internet Information Service -> World Wide Web Services -> Application Development Features -> CGI
-<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/enabling%20iis.png"/>
+
 </p>
 <p> After enabling IIS, we can now install PHP. 
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Installing%20PHP.png"/>
