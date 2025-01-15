@@ -36,7 +36,7 @@ __Step 1: Enable IIS and Windows CGI__
   -  Open __Control Panel__ > __Programs and Features__ > __Turn Windows features on or off.__
   -  Enable __IIS__ and check box for __CGI__ under __World Wide Web Services__.
   
-<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Creating%20Vitrual%20Machine.png"/>
+<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/enabling%20iis.png"/>
 
 __Step 2:__ Install PHP Manager and Configure PHP
 - Install __PHP manager__ and Configure for __IIS__ and ensure PHP is installed. 
@@ -44,7 +44,7 @@ __Step 2:__ Install PHP Manager and Configure PHP
 - Download and install PHP Manager for IIS.
 - Set PHP to a recommended version and enable required extensions using PHP Manager.
 
-<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Loggin%20in%20to%20vm.png"/>
+
 
 __Step 3: Install Rewrite Module __
 
