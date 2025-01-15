@@ -59,7 +59,7 @@ __Step 4:__ Set UP MySQL workbench or phpMyAdmin to create a new database.
 
 <img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
 
-__Step 5: Download and Install OS-Ticket
+__Step 5: Download and Install OS-Ticket__
 - Download the latest OS-Ticket version, extract it, and run the installer. 
 - Download the OS-Ticket from the official site, and extract the files to your IIS Directory.
 - Open your browser and access the OS-Ticket installer, follow the steps to connect the database, and complete the setup.
