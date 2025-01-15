@@ -23,22 +23,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Enable IIS in Windows with CGI
-- Install PHP manager 
-- Install the Rewrite Module
-- Set up Database (SQL)
-- Download OSticket
+- Install PHP manager and configure PHP 
+- Install Rewrite Module
+- Set up my SQL Database
+- Download and install OS-ticket
 
 <h2>Installation Steps</h2>
 
-<p> Create an Azure virtual machine, Windows 10, with 4 VCPUs. 
-</p>
+__Step 1: Enable IIS and Windows CGI__ 
+- Enable IIS and CGI in __Windows Features__.
+  -  Enable IIS and CGI in __Windows Features__.
+  -  Open __Control Panel__ > __Programs and Features__ > __Turn Windows features on or off.__
+  -  Enable __IIS__ and check box for __CGI__ under __World Wide Web Services__.
+  
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Creating%20Vitrual%20Machine.png"/>
 
-</p> Using the public IP address from your VM, remote into it using Microsoft Remote Desktop.
-<p>
+__Step 2:__ Install PHP Manager and Configure PHP
+- Install __PHP manager__ and Configure for __IIS__ and ensure PHP is installed. 
+- Enable required PHP extensions
+- Download and install PHP Manager for IIS.
+- Set PHP to a recommended version and enable required extensions using PHP Manager.
+
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Loggin%20in%20to%20vm.png"/>
-</p>
-<br />
+
+__Step 3: Install Rewrite Module __
 
 <p> Once you're in we can go ahead and install/enable IIS in Windows with CGI.
 
