@@ -50,14 +50,14 @@ __Step 3: Install Rewrite Module__
 - Install the __URL Rewrite Module__ for IIS
 - Download and install the __URL Rewrite Module__ from the IIS website to enable URL rewriting in OS-Ticket
 
-
+<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Rewrite%20Module.png"/>
 <p> Once you're in we can go ahead and install/enable IIS in Windows with CGI.
 
   - Internet Information Service -> World Wide Web Services -> Application Development Features -> CGI
 
 </p>
 <p> After enabling IIS, we can now install PHP. 
-<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Installing%20PHP.png"/>
+
 
 <p>After PHP, we can now install the Rewrite Module</p>
 <img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Rewrite%20Module.png"/>
