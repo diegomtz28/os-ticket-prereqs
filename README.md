@@ -57,26 +57,11 @@ __Step 4:__ Set UP MySQL workbench or phpMyAdmin to create a new database.
 - Use my __SQL Workbench __phpMyAdmin__ to create a new database 
 - Create a user with permissions for the OS-Ticket database
 
-
-
-  - Internet Information Service -> World Wide Web Services -> Application Development Features -> CGI
-
-</p>
-<p> After enabling IIS, we can now install PHP. 
-
-
-<p>After PHP, we can now install the Rewrite Module</p>
-<img src="https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Rewrite%20Module.png"/>
-<br />
-
-<p> For the last step before installing our OSticket, we need to install a database. 
 <img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
-</p> Now we can install Osticket and be able to use it. 
-<img src= "<img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
-<p> For the last and final step we restart IIS and we can now access our ticketing system. 
-  Within IIS, Go to sites -> Default -> osTicket
-On the right, click “Browse *:80”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+__Step 5: Download and Install OS-Ticket
+- Download the latest OS-Ticket version, extract it, and run the installer. 
+- Download the OS-Ticket from the official site, and extract the files to your IIS Directory.
+- Open your browser and access the OS-Ticket installer, follow the steps to connect the database, and complete the setup.
+- After installation, remove the setup folder for security. 
+
