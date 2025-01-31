@@ -63,5 +63,7 @@ __Step 5: Download and Install OS-Ticket__
 - Download the latest OS-Ticket version, extract it, and run the installer. 
 - Download the OS-Ticket from the official site, and extract the files to your IIS Directory.
 - Open your browser and access the OS-Ticket installer, follow the steps to connect the database, and complete the setup.
-- After installation, remove the setup folder for security. 
+- After installation, remove the setup folder for security.
+
+  <img src= "<img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/Sql%20Database.png"/>
 
