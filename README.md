@@ -65,5 +65,5 @@ __Step 5: Download and Install OS-Ticket__
 - Open your browser and access the OS-Ticket installer, follow the steps to connect the database, and complete the setup.
 - After installation, remove the setup folder for security.
 
-<img src= [(https://github.com/diegomtz28/os-ticket-prereqs/blob/main/osticket%20final%20image.png)"/>
+<img src= "https://github.com/diegomtz28/os-ticket-prereqs/blob/main/osticket%20final%20image.png"/>
 
